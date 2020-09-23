@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=syxuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### 你好，世界 👋
+
+- 💬 Ask me about Golang, Python and JavaScript  
+  
+- 💻 All of my projects are available at [SyXuan](https://github.com/SyXuan)  
+  
+- 📫 Reach me at [t.me/syxuan](https://t.me/syxuan)  
 
 <!--
 **SyXuan/SyXuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=syxuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
