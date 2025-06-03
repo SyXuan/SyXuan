@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- 💬 Ask me about Golang, Python and JavaScript  
+- 💬 Ask me about AI, Cryptocurrency, Golang, Python and JavaScript  
   
 - 💻 All of my projects are available at [SyXuan](https://github.com/SyXuan)  
   
